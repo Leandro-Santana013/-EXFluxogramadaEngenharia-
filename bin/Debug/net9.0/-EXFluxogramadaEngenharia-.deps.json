@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "-EXFluxogramadaEngenharia-/1.0.0": {
+        "runtime": {
+          "-EXFluxogramadaEngenharia-.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "-EXFluxogramadaEngenharia-/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

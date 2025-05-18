@@ -1,0 +1,15 @@
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\bin\Debug\net9.0\-EXFluxogramadaEngenharia-.exe
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\bin\Debug\net9.0\-EXFluxogramadaEngenharia-.deps.json
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\bin\Debug\net9.0\-EXFluxogramadaEngenharia-.runtimeconfig.json
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\bin\Debug\net9.0\-EXFluxogramadaEngenharia-.dll
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\bin\Debug\net9.0\-EXFluxogramadaEngenharia-.pdb
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.AssemblyInfoInputs.cache
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.AssemblyInfo.cs
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.csproj.CoreCompileInputs.cache
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.sourcelink.json
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.dll
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\refint\-EXFluxogramadaEngenharia-.dll
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.pdb
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\-EXFluxogramadaEngenharia-.genruntimeconfig.cache
+C:\Users\Santana\Desktop\lista logica\-EXFluxogramadaEngenharia-\obj\Debug\net9.0\ref\-EXFluxogramadaEngenharia-.dll
